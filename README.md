@@ -1,1 +1,1 @@
-# infa_2020_maystrov
+# labs_graphics_mfti_maystrov
